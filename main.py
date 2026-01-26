@@ -30,7 +30,6 @@ def main():
         show_command_panel(console)
         return
 
-    # Explicit notice when token is missing or invalid
     display_animated_message(console, "Token not found. Please enter your token.", duration=1.8, strength=1.2)
 
     while True:
