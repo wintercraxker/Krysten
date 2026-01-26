@@ -69,7 +69,7 @@ python main.py
 - `03 Delete All Roles`: Deletes all roles in the server.
 - `04 Delete All Channels`: Deletes all channels in the server.
 - `05 Delete All Emojis`: Deletes all emojis in the server.
-- `06 Clean Guild`: Complete cleanup + concurrent creation/announcements.
+- `06 Clean Guild`: Complete nuke + concurrent creation/announcements.
 - `07–10` (soon): Reserved for future features.
 - `00 Exit`: Quit the panel.
 
