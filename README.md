@@ -1,4 +1,4 @@
-# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ@ BTC - Krysten Bot <img src="https://media.discordapp.net/attachments/1307514165866532874/1465166630521671863/logo.png?ex=6978c702&is=69777582&hm=d0bc66a7ad591f6c979753dca48904a4a0969ac63506ee9eb65e88d8c467a4a0&=&format=webp&quality=lossless&width=48&height=48" alt="Logo" width="32" height="32" />
+# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ@ BTC - Krysten Bot <img src="https://media.discordapp.net/attachments/1307514165866532874/1465166630521671863/logo.png?ex=6978c702&is=69777582&hm=d0bc66a7ad591f6c979753dca48904a4a0969ac63506ee9eb65e88d8c467a4a0&=&format=webp&quality=lossless&width=48&height=48" alt="Logo" width="32" height="32" />
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1307514165866532874/1465422741036335320/pony-gang-vc-pony-gang.gif?ex=69790cc7&is=6977bb47&hm=41d104e250accfeb6c594755c2e39a3ab128bcd27139a8c8404d051caedf9e0f&=" alt="Krysten animation" style="width: 500px; height: auto;" />
