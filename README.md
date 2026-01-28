@@ -1,4 +1,4 @@
-# ㅤㅤㅤㅤㅤㅤㅤㅤ@ BTC - Krysten Bot <img src="https://media.discordapp.net/attachments/1307514165866532874/1465166630521671863/logo.png?ex=6978c702&is=69777582&hm=d0bc66a7ad591f6c979753dca48904a4a0969ac63506ee9eb65e88d8c467a4a0&=&format=webp&quality=lossless&width=48&height=48" alt="Logo" width="32" height="32" />
+# ㅤㅤㅤㅤㅤㅤㅤㅤ@ BTC - Krysten Raid Bot <img src="https://media.discordapp.net/attachments/1307514165866532874/1465166630521671863/logo.png?ex=6978c702&is=69777582&hm=d0bc66a7ad591f6c979753dca48904a4a0969ac63506ee9eb65e88d8c467a4a0&=&format=webp&quality=lossless&width=48&height=48" alt="Logo" width="32" height="32" />
 
 <p align="center">
   <img src="https://github.com/wintercraxker/Krysten/blob/main/img/pony.gif" alt="Krysten animation" style="width: 500px; height: auto;" />
