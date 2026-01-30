@@ -22,7 +22,7 @@ def _emit(console: Console, kind: str, msg: str, style: str, sink):
             pass
     console.print(Text(msg, style=style))
 
-
+# build a data URI for discord guild icon payload
 def _data_uri_from_bytes(raw: bytes, mime: str) -> str:
     b64 = base64.b64encode(raw).decode("ascii")
     return f"data:{mime};base64,{b64}"
